@@ -30,5 +30,5 @@ My achievements were:
 
 ## To see project <a href="https://raw.githack.com/anilcosarss/Faba/main/index.html">Click Here!</a> 
 
-![alt text](https://github.com/anilcosarss/Paradiss/blob/main/img/screencapture-file-C-Users-Lenovo-Desktop-front-end-muhsin-hocam-css-paradis-index-html-2023-03-13-16_03_59.png
+![alt text](https://github.com/anilcosarss/Faba/blob/main/img/screencapture-file-C-Users-Lenovo-Desktop-front-end-muhsin-hocam-css-faba-index-html-2023-03-13-16_17_15.png
 )
